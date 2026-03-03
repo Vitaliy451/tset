@@ -559,7 +559,10 @@
       "title" : "dhr",
       "public" : false
     } ],
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "657a3300-d778-11f0-a131-ed17a63abbf1"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "657a3300-d778-11f0-a131-ed17a63abbf1"

@@ -17,7 +17,10 @@
       }
     },
     "etag" : "f4b035ac24dfde2c8b70a28e5cf35715f1bf533870f5e99f14b2f4250811e3af",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "0caf93f0-cc3d-11f0-b449-cbf8adb9b7d9"
+    },
     "fileName" : "icon-images-14.jpg",
     "id" : {
       "entityType" : "TB_RESOURCE",

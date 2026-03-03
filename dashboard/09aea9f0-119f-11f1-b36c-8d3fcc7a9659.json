@@ -142,7 +142,7 @@
             "type" : "singleEntity",
             "singleEntity" : {
               "entityType" : "DEVICE",
-              "id" : "e30c2080-1198-11f1-b36c-8d3fcc7a9659"
+              "id" : "11d80bc0-cadd-11f0-87c9-23b8c25dce11"
             },
             "resolveMultiple" : false
           }
@@ -192,8 +192,11 @@
     },
     "name" : "123",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "09aea9f0-119f-11f1-b36c-8d3fcc7a9659"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "09aea9f0-119f-11f1-b36c-8d3fcc7a9659"

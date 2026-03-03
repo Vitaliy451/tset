@@ -13,7 +13,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "11dface0-cadd-11f0-87c9-23b8c25dce11"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "4a754ec0-d505-11f0-8202-978c5acf1a01"
+    },
     "fileName" : "3333.jks",
     "hasData" : true,
     "id" : {

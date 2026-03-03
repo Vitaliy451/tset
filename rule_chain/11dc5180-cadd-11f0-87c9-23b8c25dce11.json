@@ -4,7 +4,10 @@
     "additionalInfo" : null,
     "configuration" : null,
     "debugMode" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "RULE_CHAIN",
+      "id" : "11dc5180-cadd-11f0-87c9-23b8c25dce11"
+    },
     "firstRuleNodeId" : {
       "entityType" : "RULE_NODE",
       "id" : "11dd3be0-cadd-11f0-87c9-23b8c25dce11"
@@ -70,7 +73,7 @@
         "persistAlarmRulesState" : false,
         "fetchAlarmRulesStateOnStart" : false
       },
-      "configurationVersion" : 0,
+      "configurationVersion" : 1,
       "createdTime" : 0,
       "debugSettings" : null,
       "externalId" : null,

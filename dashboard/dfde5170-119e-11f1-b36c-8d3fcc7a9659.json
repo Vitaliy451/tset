@@ -10,8 +10,11 @@
     },
     "name" : "test",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "dfde5170-119e-11f1-b36c-8d3fcc7a9659"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "dfde5170-119e-11f1-b36c-8d3fcc7a9659"

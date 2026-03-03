@@ -182,8 +182,11 @@
     },
     "name" : "Dashboard",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "4ddf5c50-fc37-11f0-8155-df59b9f32cb1"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "4ddf5c50-fc37-11f0-8155-df59b9f32cb1"

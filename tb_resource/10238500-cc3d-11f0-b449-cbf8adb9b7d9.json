@@ -17,7 +17,10 @@
       }
     },
     "etag" : "98d245084c33bd385c168e14988c080f43ce3085c6cab8d91156e9f3a855c691",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "10238500-cc3d-11f0-b449-cbf8adb9b7d9"
+    },
     "fileName" : "Vitaliy tenant icon (1).png",
     "id" : {
       "entityType" : "TB_RESOURCE",

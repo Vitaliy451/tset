@@ -1242,8 +1242,11 @@
     },
     "name" : "Widget Dashboard",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "e7b5d390-0d94-11f1-8f85-25ba07d5f2fa"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "e7b5d390-0d94-11f1-8f85-25ba07d5f2fa"

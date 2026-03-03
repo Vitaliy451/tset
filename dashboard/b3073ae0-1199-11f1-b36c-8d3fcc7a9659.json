@@ -174,8 +174,11 @@
     },
     "name" : "new12",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "b3073ae0-1199-11f1-b36c-8d3fcc7a9659"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "b3073ae0-1199-11f1-b36c-8d3fcc7a9659"

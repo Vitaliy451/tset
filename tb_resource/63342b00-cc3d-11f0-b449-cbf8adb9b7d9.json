@@ -17,7 +17,10 @@
       }
     },
     "etag" : "fc1fd517543376fec79bc36000ce19bba7de890a2fa484c8a27479915787f0e0",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "63342b00-cc3d-11f0-b449-cbf8adb9b7d9"
+    },
     "fileName" : "code-coding-script-svgrepo-com.svg",
     "id" : {
       "entityType" : "TB_RESOURCE",

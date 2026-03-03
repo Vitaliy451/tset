@@ -6,7 +6,10 @@
       "mediaType" : ""
     },
     "etag" : "ac46ea443244b3d1cc40fb9734a8e102348ef3d23f4466e4ce8781c0c20a7496",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "fab29330-cecd-11f0-80ac-3bae4341ba2f"
+    },
     "fileName" : "3318.xml",
     "id" : {
       "entityType" : "TB_RESOURCE",

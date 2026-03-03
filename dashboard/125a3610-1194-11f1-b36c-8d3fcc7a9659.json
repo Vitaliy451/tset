@@ -174,8 +174,11 @@
     },
     "name" : "Dash2",
     "resources" : null,
-    "assignedCustomers" : null,
-    "externalId" : null,
+    "assignedCustomers" : [ ],
+    "externalId" : {
+      "entityType" : "DASHBOARD",
+      "id" : "125a3610-1194-11f1-b36c-8d3fcc7a9659"
+    },
     "id" : {
       "entityType" : "DASHBOARD",
       "id" : "125a3610-1194-11f1-b36c-8d3fcc7a9659"

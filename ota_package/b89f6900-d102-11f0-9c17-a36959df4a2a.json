@@ -13,7 +13,10 @@
       "entityType" : "DEVICE_PROFILE",
       "id" : "7d975e90-d101-11f0-9c17-a36959df4a2a"
     },
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "OTA_PACKAGE",
+      "id" : "b89f6900-d102-11f0-9c17-a36959df4a2a"
+    },
     "fileName" : "new_script (1).js",
     "hasData" : true,
     "id" : {

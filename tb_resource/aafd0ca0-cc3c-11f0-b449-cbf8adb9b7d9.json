@@ -17,7 +17,10 @@
       }
     },
     "etag" : "ce4eefc79d77bbe1057f686ce4654f983460803690fcb6fda770a806873481f9",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "aafd0ca0-cc3c-11f0-b449-cbf8adb9b7d9"
+    },
     "fileName" : "cat-wiggle.gif",
     "id" : {
       "entityType" : "TB_RESOURCE",

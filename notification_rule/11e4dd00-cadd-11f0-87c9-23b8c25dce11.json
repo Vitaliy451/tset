@@ -5,7 +5,10 @@
       "description" : "Send notification to tenant admins when any device changes its activity state"
     },
     "enabled" : false,
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "NOTIFICATION_RULE",
+      "id" : "11e4dd00-cadd-11f0-87c9-23b8c25dce11"
+    },
     "id" : {
       "entityType" : "NOTIFICATION_RULE",
       "id" : "11e4dd00-cadd-11f0-87c9-23b8c25dce11"

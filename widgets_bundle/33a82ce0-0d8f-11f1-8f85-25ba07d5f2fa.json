@@ -3,7 +3,10 @@
   "entity" : {
     "alias" : "bd_test",
     "description" : "Nullam vitae tortor a mi consectetur pharetra.",
-    "externalId" : null,
+    "externalId" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "33a82ce0-0d8f-11f1-8f85-25ba07d5f2fa"
+    },
     "id" : {
       "entityType" : "WIDGETS_BUNDLE",
       "id" : "33a82ce0-0d8f-11f1-8f85-25ba07d5f2fa"
