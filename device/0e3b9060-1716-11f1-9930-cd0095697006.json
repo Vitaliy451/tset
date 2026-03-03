@@ -2,9 +2,9 @@
   "entityType" : "DEVICE",
   "entity" : {
     "additionalInfo" : {
-      "gateway" : false,
+      "gateway" : true,
       "overwriteActivityTime" : false,
-      "description" : ""
+      "description" : "newLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTSnewLTS"
     },
     "customerId" : {
       "entityType" : "CUSTOMER",
@@ -39,7 +39,15 @@
     "credentialsValue" : null
   },
   "attributes" : {
-    "SERVER_SCOPE" : [ ],
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1772551892183,
+      "longValue" : null,
+      "strValue" : null
+    } ],
     "SHARED_SCOPE" : [ ]
   },
   "calculatedFields" : [ ]
