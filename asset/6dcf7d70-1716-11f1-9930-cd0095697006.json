@@ -1,0 +1,29 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : ""
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "11e0e560-cadd-11f0-87c9-23b8c25dce11"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "6dcf7d70-1716-11f1-9930-cd0095697006"
+    },
+    "label" : null,
+    "name" : "asawead",
+    "type" : "default"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}
