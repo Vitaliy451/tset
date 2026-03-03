@@ -1,0 +1,22 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "test_bundle",
+    "description" : "Test Bundle description test",
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "1b1ca030-cf8b-11f0-801c-5d2438c82f2e"
+    },
+    "image" : "tb-image;/api/images/tenant/tenant-image.svg",
+    "name" : "Test Bundle",
+    "order" : null,
+    "scada" : false,
+    "title" : "Test Bundle"
+  },
+  "fqns" : [ "al_widget", "cw_widget", "ls_widget", "st_widget", "weird_widget" ],
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}

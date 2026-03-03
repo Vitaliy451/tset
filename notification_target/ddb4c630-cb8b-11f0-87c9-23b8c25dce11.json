@@ -1,0 +1,19 @@
+{
+  "entityType" : "NOTIFICATION_TARGET",
+  "entity" : {
+    "configuration" : {
+      "type" : "PLATFORM_USERS",
+      "description" : null,
+      "usersFilter" : {
+        "type" : "CUSTOMER_USERS",
+        "customerId" : "d0c83600-cb8b-11f0-87c9-23b8c25dce11"
+      }
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_TARGET",
+      "id" : "ddb4c630-cb8b-11f0-87c9-23b8c25dce11"
+    },
+    "name" : "dhdf"
+  }
+}

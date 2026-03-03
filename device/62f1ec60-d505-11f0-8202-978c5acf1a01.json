@@ -1,0 +1,105 @@
+{
+  "entityType" : "DEVICE",
+  "entity" : {
+    "additionalInfo" : {
+      "gateway" : true,
+      "overwriteActivityTime" : false,
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend hendrerit justo, eu varius velit suscipit vulputate. Maecenas mattis, massa ac viverra hendrerit, velit augue facilisis ex, sit amet posuere velit enim in ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis arcu eu orci iaculis dignissim nec eu dui."
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "13814000-1dd2-11b2-8080-808080808080"
+    },
+    "deviceData" : {
+      "configuration" : {
+        "type" : "DEFAULT"
+      },
+      "transportConfiguration" : {
+        "type" : "DEFAULT"
+      }
+    },
+    "deviceProfileId" : {
+      "entityType" : "DEVICE_PROFILE",
+      "id" : "11dface0-cadd-11f0-87c9-23b8c25dce11"
+    },
+    "externalId" : {
+      "entityType" : "DEVICE",
+      "id" : "62f1ec60-d505-11f0-8202-978c5acf1a01"
+    },
+    "firmwareId" : null,
+    "id" : {
+      "entityType" : "DEVICE",
+      "id" : "62f1ec60-d505-11f0-8202-978c5acf1a01"
+    },
+    "label" : "teto_test1234",
+    "name" : "Teto",
+    "softwareId" : null,
+    "type" : "default"
+  },
+  "credentials" : {
+    "credentialsId" : "iVBJeBs6IgwDlS54tbNz",
+    "credentialsType" : "ACCESS_TOKEN",
+    "credentialsValue" : null
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ {
+      "booleanValue" : false,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "active",
+      "lastUpdateTs" : 1765363168310,
+      "longValue" : null,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "inactivityAlarmTime",
+      "lastUpdateTs" : 1765290240702,
+      "longValue" : 1765290240702,
+      "strValue" : null
+    }, {
+      "booleanValue" : null,
+      "doubleValue" : null,
+      "jsonValue" : null,
+      "key" : "lastActivityTime",
+      "lastUpdateTs" : 1765289614557,
+      "longValue" : 1765289613963,
+      "strValue" : null
+    } ],
+    "SHARED_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ {
+    "configuration" : {
+      "type" : "SIMPLE",
+      "arguments" : {
+        "test" : {
+          "defaultValue" : "",
+          "refEntityKey" : {
+            "key" : "temperature",
+            "type" : "TS_LATEST"
+          }
+        }
+      },
+      "expression" : "temperature/2",
+      "output" : {
+        "name" : "test",
+        "type" : "TIME_SERIES"
+      },
+      "useLatestTs" : false
+    },
+    "configurationVersion" : 0,
+    "debugSettings" : {
+      "allEnabled" : false,
+      "allEnabledUntil" : 1765290566370,
+      "failuresEnabled" : true
+    },
+    "name" : "test",
+    "tenantId" : {
+      "entityType" : "TENANT",
+      "id" : "11d80bc0-cadd-11f0-87c9-23b8c25dce11"
+    },
+    "type" : "SIMPLE"
+  } ]
+}

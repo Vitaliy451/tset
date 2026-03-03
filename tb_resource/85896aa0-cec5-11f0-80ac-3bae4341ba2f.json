@@ -1,0 +1,24 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "data" : "ZXhwb3J0IGNvbnN0IGNvbG9yID0gJyYjMTEwNDQ7JzsKCmV4cG9ydCBjb25zdCBnZXRTdGF0dXNTdHlsZXMgPSAodmFsdWUpID0+IHsKICAgIGxldCBjb2xvcjsKICAgIGlmICh2YWx1ZSkgewogICAgICAgIGNvbG9yID0gJ3JnYigzOSwgMTM0LCAzNCknOwogICAgfSBlbHNlIHsKICAgICAgICBjb2xvciA9ICdyZ2IoMjU1LCAwLCAwKSc7CiAgICB9CiAgICByZXR1cm4gewogICAgICAgIGNvbG9yOiBjb2xvciwKICAgICAgICBmb250U2l6ZTogJzE4cHgnCiAgICB9Owp9Ow==",
+    "descriptor" : null,
+    "etag" : "6be98fb9f9a97c1909efe16a4b32aa1e09070184309d142ad0769419ccf774da",
+    "externalId" : null,
+    "fileName" : "module_smoke (1).js",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "85896aa0-cec5-11f0-80ac-3bae4341ba2f"
+    },
+    "link" : "/api/resource/js_module/tenant/module_smoke (1).js",
+    "name" : "eweq32",
+    "preview" : null,
+    "public" : false,
+    "publicLink" : null,
+    "publicResourceKey" : null,
+    "resourceKey" : "module_smoke (1).js",
+    "resourceSubType" : "EXTENSION",
+    "resourceType" : "JS_MODULE",
+    "title" : "eweq32"
+  }
+}

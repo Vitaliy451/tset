@@ -1,0 +1,24 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "data" : "ZXhwb3J0IGNvbnN0IGNvbG9yID0gJyYjMTEwNDQ7JzsKCmV4cG9ydCBjb25zdCBnZXRTdGF0dXNTdHlsZXMgPSAodmFsdWUpID0+IHsKICBsZXQgY29sb3I7CiAgaWYgKHZhbHVlKSB7CiAgICBjb2xvciA9ICdyZ2IoMzksIDEzNCwgMzQpJzsKICB9IGVsc2UgewogICAgY29sb3IgPSAncmdiKDI1NSwgMCwgMCknOwogIH0KICByZXR1cm4gewogICAgY29sb3I6IGNvbG9yLAogICAgZm9udFNpemU6ICcxOHB4JwogIH07Cn07Cg==",
+    "descriptor" : null,
+    "etag" : "dfa657f1d168b201aa33d6fc9f0ab22edf64cfaea254e1be1569668646a5844c",
+    "externalId" : null,
+    "fileName" : "module_smoke (2).js",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "89e34770-cf8c-11f0-801c-5d2438c82f2e"
+    },
+    "link" : "/api/resource/js_module/tenant/module_smoke (2).js",
+    "name" : "test",
+    "preview" : null,
+    "public" : false,
+    "publicLink" : null,
+    "publicResourceKey" : null,
+    "resourceKey" : "module_smoke (2).js",
+    "resourceSubType" : "MODULE",
+    "resourceType" : "JS_MODULE",
+    "title" : "test"
+  }
+}

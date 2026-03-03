@@ -1,0 +1,43 @@
+{
+  "entityType" : "NOTIFICATION_TEMPLATE",
+  "entity" : {
+    "configuration" : {
+      "deliveryMethodsTemplates" : {
+        "WEB" : {
+          "method" : "WEB",
+          "additionalConfig" : {
+            "icon" : {
+              "enabled" : true,
+              "icon" : "add",
+              "color" : "#AF0000"
+            },
+            "actionButtonConfig" : {
+              "enabled" : true,
+              "text" : "hul;p",
+              "linkType" : "DASHBOARD",
+              "dashboardId" : "657a3300-d778-11f0-a131-ed17a63abbf1",
+              "dashboardState" : null,
+              "setEntityIdInState" : true
+            }
+          },
+          "body" : "jmyt",
+          "enabled" : true,
+          "subject" : "yhxndrt"
+        },
+        "EMAIL" : {
+          "method" : "EMAIL",
+          "body" : "<p>hndytmjkyt<img src=\"https://media.istockphoto.com/id/1477858506/uk/фото/новини-онлайн-в-телефоні-читання-газети-з-сайту-макет-цифрового-видання-та-журналу-прес-канал.jpg?s=2048x2048&amp;w=is&amp;k=20&amp;c=lAA4-gShBPqVj3ZU7_PVWPg8xJrsgjCeGpqCHk0Zi84=\" alt=\"\" width=\"2048\" height=\"1388\"></p>",
+          "enabled" : true,
+          "subject" : "jgytnjfy"
+        }
+      }
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "NOTIFICATION_TEMPLATE",
+      "id" : "cd4369c0-d778-11f0-a131-ed17a63abbf1"
+    },
+    "name" : "erht",
+    "notificationType" : "GENERAL"
+  }
+}

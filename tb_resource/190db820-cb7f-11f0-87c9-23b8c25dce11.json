@@ -1,0 +1,24 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "data" : "ZXhwb3J0IGNvbnN0IFRFU1RfU1RSSU5HID0gIkHDgMOBw4LDg8OEw4XEgMSCxITDhsOHxIzDkMSOw4jDicOKw4vEksSWxJjEmsSexKLEpMOMw43DjsOPxKrErsS2xYHDkcWDxYXDksOTw5TDlcOWw5jFjMWUxZjFmsWexaDFpMWmw5nDmsObw5zFqsWyxbTDncW4xbnFu8W9w57FisWSxpLDn8Ogw6HDosOjw6TDpcSBxIPEhcSHxI3Ej8Oow6nDqsOrxJPEl8SZxJvEn8SjxKXDrMOtw67Dr8SrxK/Et8WCw7HFhMWGw7LDs8O0w7XDtsO4xY3FlcWZxZvFn8WhxaXFp8O5w7rDu8O8xavFs8W1w73Dv8W6xbzFvsO+xYvFk+WTpuS8iuWonOWTpiI7",
+    "descriptor" : null,
+    "etag" : "e3fadc482ea6d6b0ef21ce6a3d4f090c418b60c4672d0465ac1d47ccb0257a97",
+    "externalId" : null,
+    "fileName" : "weird module.js",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "190db820-cb7f-11f0-87c9-23b8c25dce11"
+    },
+    "link" : "/api/resource/js_module/tenant/weird module.js",
+    "name" : "weird module",
+    "preview" : null,
+    "public" : false,
+    "publicLink" : null,
+    "publicResourceKey" : null,
+    "resourceKey" : "weird module.js",
+    "resourceSubType" : "MODULE",
+    "resourceType" : "JS_MODULE",
+    "title" : "weird module"
+  }
+}

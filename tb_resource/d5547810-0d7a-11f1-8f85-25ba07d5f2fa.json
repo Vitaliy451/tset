@@ -1,0 +1,24 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "data" : "ZXhwb3J0IGNvbnN0IGNpcmNsZSA9ICcmIzExMDQ0Oyc7CmV4cG9ydCBjb25zdCBpbnRlZ2VyUmVnZXggPSAvXlstK10/XGQrJC87CmV4cG9ydCBjb25zdCBjb2xvciA9ICdyZWQnOw==",
+    "descriptor" : null,
+    "etag" : "a1920d0947b34b29969909c2d22627aa3d6189db41fb40d94b3ca93a74ac5fbd",
+    "externalId" : null,
+    "fileName" : "Extension module (2).js",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "d5547810-0d7a-11f1-8f85-25ba07d5f2fa"
+    },
+    "link" : "/api/resource/js_module/tenant/Extension module (2).js",
+    "name" : "Extension test",
+    "preview" : null,
+    "public" : false,
+    "publicLink" : null,
+    "publicResourceKey" : null,
+    "resourceKey" : "Extension module (2).js",
+    "resourceSubType" : "EXTENSION",
+    "resourceType" : "JS_MODULE",
+    "title" : "Extension test"
+  }
+}

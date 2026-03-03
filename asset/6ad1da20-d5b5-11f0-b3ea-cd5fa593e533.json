@@ -1,0 +1,29 @@
+{
+  "entityType" : "ASSET",
+  "entity" : {
+    "additionalInfo" : {
+      "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eleifend hendrerit justo, eu varius velit suscipit vulputate. Maecenas mattis, massa ac viverra hendrerit, velit augue facilisis ex, sit amet posuere velit enim in ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam quis arcu eu orci iaculis dignissim nec eu dui. Aenean congue quam sed orci bibendum, ac rhoncus ex auctor. Nullam a posuere dui. Pellentesque vitae urna nunc. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam euismod odio ut urna iaculis pulvinar. Maecenas rutrum risus non ultrices mollis. Fusce et vehicula libero, sit amet tincidunt quam. Etiam et vehicula quam, non placerat ipsum. Aenean vel ipsum viverra, tincidunt nibh quis, ullamcorper arcu. Sed velit turpis, venenatis quis ex ornare, egestas convallis sem. Aenean porta tellus lorem, a bibendum diam sagittis eget. Nunc sit amet neque eleifend, consequat mi non, tristique velit."
+    },
+    "assetProfileId" : {
+      "entityType" : "ASSET_PROFILE",
+      "id" : "11e0e560-cadd-11f0-87c9-23b8c25dce11"
+    },
+    "customerId" : {
+      "entityType" : "CUSTOMER",
+      "id" : "d0c83600-cb8b-11f0-87c9-23b8c25dce11"
+    },
+    "externalId" : null,
+    "id" : {
+      "entityType" : "ASSET",
+      "id" : "6ad1da20-d5b5-11f0-b3ea-cd5fa593e533"
+    },
+    "label" : "test",
+    "name" : "test",
+    "type" : "default"
+  },
+  "relations" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  },
+  "calculatedFields" : [ ]
+}

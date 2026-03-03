@@ -1,0 +1,37 @@
+{
+  "entityType" : "TB_RESOURCE",
+  "entity" : {
+    "data" : "PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCEtLSBVcGxvYWRlZCB0bzogU1ZHIFJlcG8sIHd3dy5zdmdyZXBvLmNvbSwgR2VuZXJhdG9yOiBTVkcgUmVwbyBNaXhlciBUb29scyAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iSWNvbnMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgMzIgMzIiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6bm9uZTtzdHJva2U6IzAwMDAwMDtzdHJva2Utd2lkdGg6MjtzdHJva2UtbGluZWNhcDpyb3VuZDtzdHJva2UtbGluZWpvaW46cm91bmQ7c3Ryb2tlLW1pdGVybGltaXQ6MTA7fQ0KPC9zdHlsZT4NCjxwYXRoIGQ9Ik0zMSw2LjhjMC0wLjgtMC4xLTEuNS0wLjQtMi4zYy0wLjctMS40LTItMi40LTMuNS0yLjZjLTAuMiwwLTAuNCwwLTAuNiwwYy0wLjEsMC0wLjEsMC0wLjIsMGMtMC4xLDAtMC4yLDAtMC4zLDANCgljMCwwLDAsMCwwLDBjMCwwLDAsMCwwLDBIOS41QzkuNCwyLDkuMywyLDkuMiwyLjFDOS4yLDIsOS4xLDIsOSwyQzYuMiwyLDQsNC4yLDQsN2MwLDAuNywwLjIsMS4zLDAuNiwxLjlDNS40LDEwLjIsNi44LDExLDguNCwxMQ0KCWgxLjJMMS44LDIyLjhjLTAuOSwxLjQtMSwzLjEtMC4zLDQuNmMwLjcsMS40LDIsMi40LDMuNSwyLjZjMC4yLDAsMC40LDAsMC42LDBIMjJjMCwwLDAuMSwwLDAuMSwwYzAuMSwwLDAuMywwLDAuNCwwDQoJYzIuOCwwLDUtMi4yLDUtNWMwLTAuNi0wLjQtMS0xLTFoLTYuMWMwLDAsMC0wLjEsMC4xLTAuMWw5LjgtMTQuN2MwLjQtMC42LDAuNi0xLjIsMC43LTEuOUMzMSw3LjIsMzEsNy4xLDMxLDcNCglDMzEsNi45LDMxLDYuOSwzMSw2Ljh6IE0xNCwxOWgtM2MtMC42LDAtMS0wLjQtMS0xczAuNC0xLDEtMWgzYzAuNiwwLDEsMC40LDEsMVMxNC42LDE5LDE0LDE5eiBNMTgsMTZoLTVjLTAuNiwwLTEtMC40LTEtMQ0KCXMwLjQtMSwxLTFoNWMwLjYsMCwxLDAuNCwxLDFTMTguNiwxNiwxOCwxNnogTTI1LjMsMjZjLTAuNCwxLjItMS41LDItMi44LDJjLTAuMSwwLTAuMiwwLTAuNCwwYy0wLjgtMC4xLTEuNS0wLjYtMS45LTEuNA0KCWMtMC4xLTAuMi0wLjItMC40LTAuMi0wLjZIMjUuM3ogTTIxLjYsOUMyMS42LDksMjEuNiw5LDIxLjYsOUw4LjQsOUM3LjUsOSw2LjcsOC42LDYuMyw3LjlDNi4xLDcuNiw2LDcuMyw2LDdjMC0xLjcsMS4zLTMsMy0zDQoJYzAuMSwwLDAuMiwwLDAuMi0wLjFDOS4zLDQsOS40LDQsOS41LDRoMTIuN0MyMC41LDYuMiwyMS4yLDguMiwyMS42LDl6Ii8+DQoJDQoJPCEtLSBYU1MgUGF5TG9hZDog0KHQv9C70LjQstCw0Y7Rh9C1INCy0ZbQutC90L4g0YHQv9C+0LLRltGJ0LXQvdC90Y8g0LcgSldUIC0tPg0KDQoJPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KCQk8IVtDREFUQVsNCgkJYWxlcnQoSlNPTi5zdHJpbmdpZnkobG9jYWxTdG9yYWdlKSk7DQoJCV1dPg0KCTwvc2NyaXB0Pg0KPC9zdmc+DQo=",
+    "descriptor" : {
+      "mediaType" : "image/svg+xml",
+      "width" : 32,
+      "height" : 32,
+      "size" : 1544,
+      "etag" : "fc1fd517543376fec79bc36000ce19bba7de890a2fa484c8a27479915787f0e0",
+      "previewDescriptor" : {
+        "mediaType" : "image/svg+xml",
+        "width" : 32,
+        "height" : 32,
+        "size" : 1544,
+        "etag" : "fc1fd517543376fec79bc36000ce19bba7de890a2fa484c8a27479915787f0e0"
+      }
+    },
+    "etag" : "fc1fd517543376fec79bc36000ce19bba7de890a2fa484c8a27479915787f0e0",
+    "externalId" : null,
+    "fileName" : "code-coding-script-svgrepo-com.svg",
+    "id" : {
+      "entityType" : "TB_RESOURCE",
+      "id" : "63342b00-cc3d-11f0-b449-cbf8adb9b7d9"
+    },
+    "link" : "/api/images/tenant/code-coding-script-svgrepo-com.svg",
+    "name" : "code-coding-script-svgrepo-com.svg",
+    "preview" : null,
+    "public" : true,
+    "publicLink" : "/api/images/public/nWB29aU9kmxFZVJkWz6Ra5YvW1G1UWXA",
+    "publicResourceKey" : "nWB29aU9kmxFZVJkWz6Ra5YvW1G1UWXA",
+    "resourceKey" : "code-coding-script-svgrepo-com.svg",
+    "resourceSubType" : "IMAGE",
+    "resourceType" : "IMAGE",
+    "title" : "code-coding-script-svgrepo-com.svg"
+  }
+}
